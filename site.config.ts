@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Jack大叔的博客',
-  domain: '',
+  domain: 'blog.jack-xu.cn/',
   author: 'Jack Xu',
 
   // open graph metadata (optional)
