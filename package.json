@@ -7,7 +7,7 @@
   "repository": "github:jack-xu-2022/blog",
   "license": "MIT",
   "engines": {
-    "node": "lts/*"
+    "node": "20.x"
   },
   "scripts": {
     "dev": "next dev",
